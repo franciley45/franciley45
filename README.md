@@ -1,6 +1,11 @@
 ### Olá,  Sou Franciley  Rodrigues 👋 
 - 🌱  Atualmente sou estudante de Desenvolvimento Web Full Stack pela Trybe linguagem de programação JavaScript 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  </div>
+  
+  ##
+ 
+  <div> 
   <div>
     <h3>Linguagens</h3>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,7 +19,7 @@
   
   ##
  
-<div> 
+  <div> 
   <div>
     <h3>Tecnologias</h3>
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
