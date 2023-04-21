@@ -54,7 +54,7 @@
 <div> 
   <div>
 <seção>
-  <h3>Teste</h3>
+  <h3>Testes</h3>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white">
   <img src="https://img.shields.io/badge/Chai-f7e9c8?style=for-the-badge&logo=mocha&logoColor=a84d45">
