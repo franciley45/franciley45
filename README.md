@@ -9,7 +9,12 @@
   <span>typescript</span>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <span>python</span>
-  </div><br>
+  </div>
+  </div>
+  
+  ##
+ 
+<div> 
   <div>
     <h3>Tecnologias</h3>
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
@@ -36,7 +41,12 @@
   <span>redux</span><br><br><br>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <span>express</span>
-   </div><br>
+   </div>
+  </div>
+  
+  ##
+ 
+<div> 
   <div>
 <seção>
   <h3>Teste</h3>
@@ -45,7 +55,7 @@
   <img src="https://img.shields.io/badge/Chai-f7e9c8?style=for-the-badge&logo=mocha&logoColor=a84d45">
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
 </section>
-  <div/><br>
+  <div/>
   <img align="right" alt="Rafa-pic" height="120" style="border-radius:50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div><br>
   
