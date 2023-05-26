@@ -1,5 +1,6 @@
 ### Olá,  Sou Franciley  Rodrigues 👋 
-- 🌱  Atualmente sou estudante de Desenvolvimento Web Full Stack pela Trybe linguagem de programação JavaScript 
+- 🌱  Estudante de Desenvolvimento Web Full Stack pela Trybe linguagem de programação JavaScript.
+- 🌱  Estudante de Análise e Desenvolvimento de Sistemas pelo Centro Educacional Uníntese.
 <div style="display: inline_block">
   </div>
   
