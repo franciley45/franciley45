@@ -1,5 +1,5 @@
 ### Olá,  Sou Franciley  Rodrigues 👋
-- :deciduous_tree:  Formado em Desenvolvimento Web Full Stack pela Trybe linguagem de programação JavaScript  :calendar:  01/02/2022 a 01/05/2023. :heavy_check_mark:
+- :deciduous_tree:  Formado em Desenvolvimento Web Full Stack pela Trybe linguagem de programação JavaScript  :calendar:  01/02/2022 a 01/05/2023.
 - 🌱  Estudante de Análise e Desenvolvimento de Sistemas pelo Centro Educacional Uníntese :calendar:  01/05/2023 a 01/09/2025.
 - 🌱  Estudante de Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais :calendar:  01/06/2023 a 01/08/2025.
 <div style="display: inline_block">
