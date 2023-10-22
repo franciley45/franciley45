@@ -1,4 +1,9 @@
-### Olá,  Sou Franciley  Rodrigues 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38B6FF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38B6FF&size=36&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Franciley+Rodrigues;I'm+37+years+old;I'm+from+Brazil;I+graduation+analysis+is+systems+development;Be+Welcome!)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=franciley45&bg_color=0d1117&color=c9d1d9&line=c9d1d9&point=287bac&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 - :deciduous_tree:  Formado em Desenvolvimento Web Full Stack pela Trybe linguagem de programação JavaScript  :calendar:  01/02/2022 a 01/05/2023.
   
 - 🌱  Estudante de Análise e Desenvolvimento de Sistemas pelo Centro Educacional Uníntese :calendar:  01/05/2023 a 01/09/2025.
@@ -77,6 +82,5 @@
  
   <a href = "mailto:testepa45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%32394?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/franciley-rodrigues-desenvolvedor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
 
